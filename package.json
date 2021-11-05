@@ -4,7 +4,8 @@
   "version": "1.0.0", 
   "author": "Aryan Sridharala <sridharala.aryan@gmail.com>",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/Aryan-Sridharala/aryansridharala.github.io"
   },
   "keywords": [
     "gatsby"
