@@ -1,11 +1,11 @@
 {
-  "homepage": "https://aryansridharala.github.io",
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0", 
   "author": "Aryan Sridharala <sridharala.aryan@gmail.com>",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/Aryan-Sridharala/aryansridharala.github.io"
   },
   "keywords": [
     "gatsby"
